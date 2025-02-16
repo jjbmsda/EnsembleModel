@@ -1,6 +1,6 @@
 # LibriSpeech Classification with ResNet, DenseNet, and Ensemble Models
 
-This repository contains a PyTorch implementation for speaker classification using the **LibriSpeech** dataset. 
+This repository contains a PyTorch implementation for speaker classification using the **LibriSpeech** dataset.    
 It leverages ResNet, DenseNet, and an Ensemble model combining both architectures for enhanced performance.
 
 ## Features
